@@ -1,0 +1,501 @@
+transaction_id,customer_id,customer_name,transaction_date,amount,category,status,payment_method,region,merchant_name
+1,116,Hannah Taylor,27-08-24,61.37,Income,Completed,Credit Card,West,Merchant_14
+2,120,George King,05-08-24,546.56,Expense,Completed,Bank Transfer,West,Merchant_8
+3,112,Jessica Lee,18-01-24,908.56,Expense,Completed,PayPal,West,Merchant_39
+4,113,George King,30-05-24,976.36,Expense,Pending,PayPal,South,Merchant_7
+5,105,Fiona Green,12-03-24,261.62,Expense,Completed,Debit Card,East,Merchant_30
+6,120,Ian Martin,03-10-24,335.58,Expense,Pending,Cash,West,Merchant_48
+7,102,Fiona Green,09-12-24,640.21,Income,Pending,PayPal,South,Merchant_49
+8,103,Fiona Green,24-12-24,496.5,Expense,Pending,Bank Transfer,East,Merchant_46
+9,112,Ethan Black,12-09-24,188.62,Income,Completed,Credit Card,West,Merchant_16
+10,113,Hannah Taylor,18-09-24,146.18,Income,Pending,Debit Card,North,Merchant_23
+11,104,Ian Martin,12-04-24,850.07,Expense,Pending,Debit Card,North,Merchant_44
+12,111,Alice Johnson,25-08-24,735.88,Expense,Pending,Credit Card,North,Merchant_32
+13,115,Alice Johnson,07-01-24,353.51,Income,Completed,Debit Card,North,Merchant_40
+14,110,Bob Smith,09-03-24,893.37,Income,Completed,PayPal,East,Merchant_16
+15,114,Bob Smith,18-08-24,907.29,Expense,Completed,Bank Transfer,South,Merchant_37
+16,118,George King,24-04-24,584.38,Income,Completed,PayPal,North,Merchant_27
+17,111,Fiona Green,26-03-24,927.22,Income,Completed,Debit Card,East,Merchant_38
+18,105,Ethan Black,21-11-24,565.12,Expense,Pending,Cash,East,Merchant_29
+19,117,Charlie Brown,05-05-24,266.03,Expense,Completed,Cash,South,Merchant_1
+20,119,Fiona Green,03-04-24,977.63,Income,Completed,Bank Transfer,South,Merchant_28
+21,105,Diana White,27-07-24,768.93,Expense,Completed,Bank Transfer,North,Merchant_15
+22,105,Bob Smith,12-01-24,537.83,Expense,Completed,Debit Card,West,Merchant_46
+23,116,George King,27-11-24,957.81,Income,Pending,PayPal,West,Merchant_25
+24,111,Jessica Lee,11-07-24,679.07,Expense,Pending,Debit Card,East,Merchant_43
+25,103,Ethan Black,30-12-24,220.2,Expense,Pending,Debit Card,North,Merchant_31
+26,118,Fiona Green,09-05-24,480.44,Expense,Pending,Cash,East,Merchant_33
+27,107,George King,18-06-24,82.61,Expense,Completed,Credit Card,West,Merchant_15
+28,113,Ian Martin,21-11-24,103.42,Expense,Pending,PayPal,East,Merchant_41
+29,113,Diana White,25-03-24,673.26,Income,Completed,PayPal,South,Merchant_27
+30,116,Hannah Taylor,21-06-24,670.96,Income,Completed,Debit Card,East,Merchant_32
+31,118,Diana White,03-05-24,424.25,Expense,Pending,Debit Card,North,Merchant_37
+32,103,Diana White,03-07-24,627.4,Income,Completed,Credit Card,East,Merchant_4
+33,114,Jessica Lee,16-05-24,680.26,Income,Pending,Cash,East,Merchant_10
+34,105,Hannah Taylor,14-06-24,382.92,Expense,Pending,Bank Transfer,South,Merchant_7
+35,111,Bob Smith,17-03-24,820.04,Expense,Pending,PayPal,South,Merchant_5
+36,108,Hannah Taylor,24-02-24,110.98,Expense,Pending,Bank Transfer,South,Merchant_27
+37,114,Diana White,26-07-24,804.6,Income,Pending,Credit Card,East,Merchant_36
+38,106,Jessica Lee,14-08-24,782.17,Expense,Pending,Debit Card,West,Merchant_32
+39,107,Diana White,26-08-24,600.98,Expense,Completed,Credit Card,South,Merchant_26
+40,120,Ian Martin,24-11-24,833.56,Expense,Completed,Bank Transfer,West,Merchant_22
+41,119,Hannah Taylor,02-03-24,306.68,Expense,Pending,PayPal,North,Merchant_13
+42,107,Jessica Lee,06-10-24,850.38,Income,Completed,Bank Transfer,West,Merchant_43
+43,106,Hannah Taylor,18-06-24,811.2,Expense,Completed,Credit Card,West,Merchant_21
+44,117,Jessica Lee,30-06-24,802.45,Income,Pending,Bank Transfer,North,Merchant_39
+45,108,Fiona Green,08-09-24,769.09,Income,Pending,Credit Card,South,Merchant_40
+46,115,Fiona Green,29-09-24,599.88,Income,Completed,Bank Transfer,East,Merchant_11
+47,113,Ethan Black,12-05-24,449.75,Income,Pending,Cash,East,Merchant_11
+48,106,Jessica Lee,15-04-24,387.17,Expense,Completed,Bank Transfer,West,Merchant_46
+49,114,Fiona Green,28-03-24,251.8,Expense,Completed,Bank Transfer,East,Merchant_10
+50,114,George King,11-11-24,894.9,Income,Pending,Debit Card,West,Merchant_6
+51,107,George King,16-09-24,287.79,Income,Pending,Credit Card,West,Merchant_21
+52,101,Charlie Brown,12-11-24,901.74,Income,Completed,Cash,West,Merchant_4
+53,120,Hannah Taylor,23-02-24,319.1,Expense,Completed,Bank Transfer,South,Merchant_31
+54,104,Ethan Black,19-03-24,963.7,Expense,Pending,Bank Transfer,East,Merchant_42
+55,105,Jessica Lee,16-01-24,152.67,Income,Completed,Debit Card,East,Merchant_22
+56,117,Ian Martin,24-11-24,319.54,Income,Completed,Bank Transfer,South,Merchant_5
+57,103,Hannah Taylor,21-08-24,784.31,Expense,Completed,Bank Transfer,West,Merchant_41
+58,102,Bob Smith,13-06-24,769.42,Expense,Pending,Debit Card,South,Merchant_39
+59,103,Ian Martin,25-03-24,899.83,Expense,Completed,Debit Card,West,Merchant_15
+60,115,George King,14-09-24,867.48,Income,Completed,Credit Card,South,Merchant_49
+61,104,Jessica Lee,26-09-24,137.56,Income,Pending,Cash,West,Merchant_35
+62,113,Ian Martin,24-05-24,425.94,Income,Pending,Cash,West,Merchant_10
+63,110,Ethan Black,28-12-24,115.53,Income,Pending,Bank Transfer,South,Merchant_2
+64,111,Ethan Black,11-05-24,784.77,Expense,Completed,Bank Transfer,West,Merchant_35
+65,118,Charlie Brown,05-08-24,722.64,Income,Pending,Debit Card,North,Merchant_45
+66,101,Hannah Taylor,16-09-24,696.64,Expense,Completed,Debit Card,East,Merchant_7
+67,105,Ethan Black,12-06-24,307.31,Income,Completed,Cash,West,Merchant_22
+68,104,Fiona Green,02-07-24,868.04,Income,Pending,PayPal,South,Merchant_47
+69,118,Fiona Green,20-02-24,746.07,Expense,Completed,Bank Transfer,West,Merchant_14
+70,107,Jessica Lee,15-02-24,455.9,Expense,Pending,Credit Card,North,Merchant_33
+71,105,Diana White,02-02-24,635.4,Income,Completed,Debit Card,South,Merchant_3
+72,120,George King,12-09-24,647.67,Expense,Pending,Debit Card,East,Merchant_10
+73,117,Jessica Lee,23-05-24,168.63,Expense,Completed,Bank Transfer,North,Merchant_22
+74,115,Ian Martin,09-03-24,644.52,Income,Pending,Bank Transfer,East,Merchant_39
+75,117,Ian Martin,16-08-24,146.85,Expense,Completed,Debit Card,North,Merchant_42
+76,106,Diana White,18-09-24,127.14,Income,Completed,Debit Card,West,Merchant_23
+77,118,Alice Johnson,26-01-24,490.69,Income,Completed,PayPal,South,Merchant_4
+78,107,Ethan Black,10-11-24,983.48,Income,Completed,Cash,South,Merchant_26
+79,106,Ian Martin,10-07-24,541.23,Expense,Pending,Credit Card,South,Merchant_12
+80,116,Diana White,12-12-24,933.38,Expense,Pending,PayPal,North,Merchant_11
+81,119,Ian Martin,22-11-24,386.55,Expense,Pending,Debit Card,South,Merchant_31
+82,112,George King,28-03-24,609.9,Expense,Pending,Debit Card,North,Merchant_42
+83,120,George King,23-12-24,300.31,Income,Pending,PayPal,South,Merchant_27
+84,106,Ian Martin,15-03-24,974.76,Expense,Pending,Bank Transfer,East,Merchant_22
+85,114,Hannah Taylor,07-04-24,817.88,Income,Completed,Credit Card,South,Merchant_33
+86,104,Jessica Lee,20-02-24,178.99,Expense,Pending,Cash,South,Merchant_26
+87,104,Jessica Lee,13-11-24,895.74,Expense,Pending,Credit Card,East,Merchant_41
+88,109,Fiona Green,16-07-24,308.2,Expense,Completed,Cash,West,Merchant_10
+89,108,Charlie Brown,03-08-24,139.62,Expense,Completed,Credit Card,South,Merchant_16
+90,108,Ethan Black,24-12-24,130.55,Income,Pending,PayPal,South,Merchant_23
+91,112,Ethan Black,29-11-24,498.45,Income,Pending,Debit Card,North,Merchant_25
+92,111,Hannah Taylor,12-03-24,148.42,Expense,Completed,Credit Card,East,Merchant_45
+93,108,Hannah Taylor,15-02-24,102.7,Income,Completed,Debit Card,South,Merchant_8
+94,118,Ethan Black,28-07-24,897.45,Income,Completed,PayPal,South,Merchant_40
+95,108,Fiona Green,06-04-24,929.66,Income,Completed,Cash,South,Merchant_23
+96,119,George King,07-12-24,277.35,Expense,Completed,Cash,North,Merchant_50
+97,102,Fiona Green,05-12-24,214.18,Expense,Pending,Cash,West,Merchant_19
+98,118,Ethan Black,22-02-24,563.52,Income,Pending,Cash,East,Merchant_21
+99,120,Jessica Lee,30-04-24,456.07,Income,Completed,PayPal,South,Merchant_47
+100,103,George King,26-11-24,426.82,Income,Pending,Bank Transfer,North,Merchant_41
+101,112,Alice Johnson,21-09-24,326.75,Expense,Completed,Cash,West,Merchant_21
+102,112,Diana White,14-06-24,419.37,Expense,Pending,Credit Card,West,Merchant_20
+103,120,Ian Martin,11-06-24,667.72,Expense,Pending,Debit Card,South,Merchant_23
+104,102,George King,23-08-24,124.53,Income,Completed,PayPal,North,Merchant_28
+105,111,Alice Johnson,19-01-24,674.23,Income,Pending,PayPal,South,Merchant_50
+106,115,Bob Smith,26-03-24,535.08,Income,Pending,Bank Transfer,North,Merchant_43
+107,120,Hannah Taylor,10-12-24,963.03,Expense,Pending,Debit Card,East,Merchant_4
+108,115,Ian Martin,30-07-24,671,Expense,Pending,Bank Transfer,South,Merchant_49
+109,105,Bob Smith,10-11-24,750.64,Income,Completed,Debit Card,East,Merchant_17
+110,120,Hannah Taylor,02-07-24,917.47,Expense,Pending,Cash,North,Merchant_39
+111,107,George King,20-09-24,65.63,Expense,Completed,Bank Transfer,West,Merchant_45
+112,116,Bob Smith,26-11-24,406.82,Income,Completed,Credit Card,East,Merchant_32
+113,116,Ethan Black,05-08-24,690.53,Expense,Completed,Credit Card,South,Merchant_43
+114,103,Ethan Black,16-07-24,903.28,Income,Completed,Credit Card,East,Merchant_16
+115,103,Fiona Green,14-08-24,542.97,Income,Pending,Cash,North,Merchant_47
+116,105,Charlie Brown,26-01-24,949.32,Expense,Completed,Debit Card,West,Merchant_49
+117,115,Ian Martin,09-06-24,932.49,Expense,Pending,Cash,South,Merchant_30
+118,119,Ethan Black,06-08-24,259.9,Expense,Completed,PayPal,East,Merchant_5
+119,103,Charlie Brown,11-10-24,730.48,Expense,Completed,PayPal,North,Merchant_5
+120,111,Hannah Taylor,09-03-24,824.29,Expense,Pending,PayPal,North,Merchant_32
+121,111,Bob Smith,08-04-24,496.5,Income,Completed,PayPal,East,Merchant_34
+122,109,Hannah Taylor,27-12-24,199.8,Income,Pending,Bank Transfer,East,Merchant_7
+123,114,George King,10-08-24,930.36,Expense,Pending,Bank Transfer,North,Merchant_44
+124,105,Fiona Green,24-04-24,703.64,Expense,Completed,PayPal,West,Merchant_49
+125,105,Fiona Green,19-08-24,139.18,Expense,Pending,Credit Card,East,Merchant_4
+126,111,Charlie Brown,01-06-24,560.62,Income,Pending,Debit Card,East,Merchant_18
+127,109,Ethan Black,18-10-24,843.98,Expense,Completed,Debit Card,South,Merchant_30
+128,102,Fiona Green,26-08-24,932.45,Income,Pending,Debit Card,West,Merchant_23
+129,110,Diana White,01-12-24,535.16,Income,Pending,Credit Card,West,Merchant_27
+130,104,George King,29-03-24,161.73,Income,Pending,Credit Card,North,Merchant_49
+131,112,Alice Johnson,20-07-24,745.23,Expense,Pending,Credit Card,North,Merchant_50
+132,114,Alice Johnson,23-01-24,598.98,Income,Pending,Cash,South,Merchant_50
+133,102,Charlie Brown,08-02-24,470.52,Expense,Pending,PayPal,East,Merchant_36
+134,109,Charlie Brown,24-04-24,415.77,Income,Completed,Bank Transfer,South,Merchant_17
+135,104,Ian Martin,14-09-24,87.81,Income,Completed,Cash,East,Merchant_10
+136,111,Ian Martin,30-01-24,570.58,Expense,Pending,Cash,East,Merchant_9
+137,107,Diana White,04-05-24,938.43,Expense,Completed,Bank Transfer,East,Merchant_48
+138,115,Charlie Brown,09-07-24,244.67,Expense,Completed,Debit Card,South,Merchant_16
+139,102,Alice Johnson,02-08-24,347.75,Income,Pending,Cash,North,Merchant_32
+140,120,Ethan Black,16-06-24,195.48,Expense,Completed,Bank Transfer,North,Merchant_20
+141,116,Fiona Green,05-04-24,235.3,Income,Completed,Credit Card,South,Merchant_18
+142,119,George King,23-12-24,788.82,Expense,Completed,Credit Card,North,Merchant_9
+143,107,Diana White,18-06-24,163.14,Income,Completed,Bank Transfer,West,Merchant_6
+144,110,Ethan Black,13-04-24,95.86,Income,Completed,Debit Card,East,Merchant_5
+145,112,Diana White,25-12-24,446.62,Income,Pending,Bank Transfer,South,Merchant_27
+146,108,Jessica Lee,30-08-24,235.98,Income,Completed,Credit Card,East,Merchant_13
+147,119,Charlie Brown,11-04-24,76.95,Income,Completed,Cash,East,Merchant_48
+148,103,Fiona Green,14-05-24,314.05,Expense,Completed,Bank Transfer,South,Merchant_3
+149,108,Diana White,15-06-24,942.91,Income,Pending,PayPal,North,Merchant_21
+150,108,Ian Martin,03-06-24,965.9,Income,Completed,Bank Transfer,South,Merchant_34
+151,116,Jessica Lee,15-02-24,142.08,Income,Completed,Cash,East,Merchant_4
+152,116,Bob Smith,02-10-24,109.81,Income,Pending,Credit Card,South,Merchant_2
+153,113,Hannah Taylor,02-04-24,185.93,Income,Pending,PayPal,South,Merchant_20
+154,102,George King,22-01-24,552.6,Expense,Pending,Debit Card,South,Merchant_2
+155,103,Jessica Lee,26-01-24,798.27,Expense,Pending,Credit Card,North,Merchant_10
+156,120,Alice Johnson,08-08-24,754.27,Expense,Pending,PayPal,South,Merchant_43
+157,110,Bob Smith,17-02-24,898.78,Income,Pending,Credit Card,North,Merchant_36
+158,108,Ethan Black,02-10-24,382.77,Income,Pending,PayPal,West,Merchant_5
+159,115,Fiona Green,11-07-24,598.48,Income,Completed,Debit Card,West,Merchant_22
+160,102,Jessica Lee,23-09-24,260.04,Income,Pending,Bank Transfer,East,Merchant_33
+161,120,Jessica Lee,05-10-24,630.39,Expense,Completed,PayPal,South,Merchant_26
+162,120,Charlie Brown,30-09-24,433.17,Expense,Pending,Debit Card,North,Merchant_32
+163,113,Charlie Brown,30-05-24,724.22,Income,Completed,PayPal,North,Merchant_9
+164,104,George King,24-07-24,422.93,Income,Pending,Cash,South,Merchant_37
+165,117,Charlie Brown,10-06-24,399,Income,Completed,Credit Card,East,Merchant_8
+166,103,Alice Johnson,22-08-24,397.06,Expense,Completed,Cash,South,Merchant_47
+167,109,George King,22-07-24,410.3,Expense,Pending,Debit Card,West,Merchant_14
+168,109,Fiona Green,08-05-24,676.67,Expense,Completed,Bank Transfer,East,Merchant_16
+169,110,Alice Johnson,03-04-24,561.46,Income,Pending,Debit Card,North,Merchant_9
+170,101,Alice Johnson,16-08-24,55.17,Expense,Pending,PayPal,West,Merchant_37
+171,104,Ian Martin,22-09-24,205.83,Expense,Pending,Cash,South,Merchant_37
+172,111,George King,17-02-24,937.33,Expense,Pending,Cash,North,Merchant_6
+173,116,Ethan Black,27-05-24,853.06,Expense,Completed,Cash,West,Merchant_9
+174,109,Hannah Taylor,22-11-24,638.9,Income,Pending,Bank Transfer,West,Merchant_24
+175,118,Bob Smith,15-04-24,579.81,Income,Pending,PayPal,West,Merchant_37
+176,109,Hannah Taylor,15-07-24,141.14,Income,Pending,Credit Card,West,Merchant_44
+177,113,Bob Smith,19-01-24,379.92,Income,Completed,Bank Transfer,West,Merchant_23
+178,109,Fiona Green,05-12-24,433.21,Expense,Completed,Cash,East,Merchant_25
+179,112,Hannah Taylor,26-01-24,578.77,Income,Completed,Credit Card,West,Merchant_12
+180,113,Ian Martin,17-02-24,606.2,Income,Completed,PayPal,West,Merchant_45
+181,101,Jessica Lee,16-02-24,473.56,Income,Pending,Credit Card,North,Merchant_13
+182,105,Fiona Green,25-11-24,78.96,Income,Pending,PayPal,South,Merchant_43
+183,106,Ethan Black,10-10-24,139.8,Income,Pending,Debit Card,East,Merchant_46
+184,111,Hannah Taylor,28-08-24,700.85,Expense,Completed,PayPal,West,Merchant_9
+185,112,Diana White,15-03-24,498.29,Income,Pending,Bank Transfer,South,Merchant_29
+186,115,Diana White,25-04-24,239.42,Expense,Completed,Bank Transfer,North,Merchant_30
+187,102,Fiona Green,26-09-24,926.48,Income,Pending,PayPal,South,Merchant_44
+188,115,Ian Martin,12-12-24,234.5,Income,Pending,Debit Card,East,Merchant_12
+189,104,Hannah Taylor,28-07-24,591.93,Income,Completed,Bank Transfer,West,Merchant_30
+190,109,Diana White,18-12-24,651.02,Income,Pending,Debit Card,West,Merchant_8
+191,108,Hannah Taylor,03-05-24,219.3,Income,Pending,Cash,North,Merchant_8
+192,108,Hannah Taylor,07-04-24,834.63,Expense,Completed,Credit Card,South,Merchant_12
+193,112,Bob Smith,14-02-24,732.56,Expense,Pending,Bank Transfer,North,Merchant_33
+194,102,Jessica Lee,08-03-24,818.29,Income,Pending,Debit Card,North,Merchant_14
+195,105,Bob Smith,27-03-24,620.01,Expense,Completed,Debit Card,South,Merchant_38
+196,105,Hannah Taylor,22-03-24,637.69,Expense,Completed,PayPal,West,Merchant_24
+197,107,Alice Johnson,25-12-24,445.05,Income,Completed,Cash,North,Merchant_24
+198,103,Jessica Lee,12-03-24,111.9,Income,Pending,Cash,West,Merchant_17
+199,107,Hannah Taylor,16-05-24,945.25,Income,Pending,Credit Card,North,Merchant_8
+200,117,Diana White,05-06-24,372.28,Expense,Pending,Cash,East,Merchant_1
+201,110,Alice Johnson,29-08-24,774.49,Expense,Pending,Bank Transfer,West,Merchant_46
+202,108,Ethan Black,04-10-24,608.6,Income,Completed,Cash,South,Merchant_37
+203,103,Fiona Green,05-02-24,506.07,Expense,Pending,PayPal,North,Merchant_26
+204,104,Ian Martin,08-07-24,466.38,Expense,Pending,Credit Card,West,Merchant_46
+205,110,Bob Smith,30-08-24,729.61,Expense,Pending,Bank Transfer,West,Merchant_33
+206,108,Hannah Taylor,10-02-24,247.36,Income,Pending,PayPal,North,Merchant_48
+207,106,Charlie Brown,28-01-24,320.93,Income,Pending,Bank Transfer,West,Merchant_15
+208,115,Alice Johnson,06-09-24,308.37,Expense,Pending,Bank Transfer,West,Merchant_31
+209,113,Hannah Taylor,23-03-24,783.92,Income,Pending,Bank Transfer,South,Merchant_2
+210,108,Ian Martin,21-07-24,395.76,Expense,Pending,Debit Card,East,Merchant_48
+211,114,Fiona Green,28-05-24,258.23,Expense,Pending,Debit Card,North,Merchant_13
+212,103,Ian Martin,20-02-24,152.11,Expense,Pending,Cash,East,Merchant_15
+213,116,Hannah Taylor,11-08-24,290.5,Income,Pending,Credit Card,South,Merchant_12
+214,110,George King,03-03-24,300.92,Expense,Completed,Debit Card,South,Merchant_1
+215,108,Ian Martin,29-07-24,303.61,Expense,Completed,Cash,North,Merchant_35
+216,106,Diana White,16-09-24,601.68,Income,Completed,Credit Card,South,Merchant_42
+217,110,Hannah Taylor,17-12-24,255.52,Expense,Pending,Debit Card,East,Merchant_32
+218,113,Bob Smith,26-02-24,163.69,Income,Completed,Credit Card,West,Merchant_27
+219,107,George King,20-12-24,286.19,Expense,Completed,Bank Transfer,North,Merchant_23
+220,119,Diana White,18-10-24,495.39,Income,Pending,PayPal,West,Merchant_34
+221,105,Ian Martin,28-06-24,335.04,Expense,Completed,Debit Card,West,Merchant_48
+222,105,Ian Martin,04-05-24,613.86,Income,Pending,Bank Transfer,South,Merchant_48
+223,106,Diana White,08-03-24,155.67,Expense,Pending,Bank Transfer,West,Merchant_4
+224,115,Ethan Black,23-05-24,297.78,Expense,Pending,Credit Card,North,Merchant_16
+225,109,Hannah Taylor,19-11-24,468.78,Expense,Pending,Credit Card,South,Merchant_19
+226,101,Bob Smith,10-06-24,315.27,Income,Pending,Cash,West,Merchant_46
+227,106,Ian Martin,14-09-24,257.48,Income,Completed,Bank Transfer,East,Merchant_24
+228,106,Fiona Green,03-09-24,859.43,Income,Pending,Debit Card,North,Merchant_25
+229,109,Bob Smith,01-04-24,231.88,Expense,Pending,PayPal,East,Merchant_26
+230,103,Jessica Lee,25-10-24,548.43,Income,Pending,PayPal,South,Merchant_27
+231,107,Diana White,21-02-24,831.03,Expense,Pending,Cash,East,Merchant_39
+232,104,Diana White,17-12-24,691.69,Income,Pending,PayPal,East,Merchant_10
+233,112,Hannah Taylor,16-09-24,538.91,Expense,Pending,Debit Card,South,Merchant_44
+234,109,Bob Smith,18-02-24,879.34,Expense,Pending,Cash,East,Merchant_49
+235,106,Hannah Taylor,30-10-24,502.8,Expense,Completed,Cash,East,Merchant_17
+236,120,Ethan Black,05-10-24,90.1,Expense,Pending,Bank Transfer,North,Merchant_11
+237,114,Hannah Taylor,16-10-24,128.39,Expense,Pending,PayPal,West,Merchant_43
+238,111,Fiona Green,11-03-24,364.13,Expense,Completed,PayPal,East,Merchant_25
+239,104,Bob Smith,08-02-24,592.58,Income,Completed,PayPal,East,Merchant_18
+240,111,Bob Smith,21-06-24,320.16,Income,Pending,Bank Transfer,East,Merchant_34
+241,102,Jessica Lee,22-09-24,802.68,Expense,Pending,PayPal,West,Merchant_30
+242,118,Jessica Lee,21-05-24,708.49,Expense,Pending,Credit Card,North,Merchant_34
+243,105,Ethan Black,09-05-24,329,Expense,Pending,PayPal,East,Merchant_31
+244,107,Diana White,03-06-24,834.29,Income,Completed,Bank Transfer,North,Merchant_3
+245,119,George King,27-09-24,571.24,Expense,Completed,Cash,West,Merchant_44
+246,120,Bob Smith,18-11-24,147.66,Income,Completed,Credit Card,West,Merchant_16
+247,116,Alice Johnson,18-02-24,164.49,Income,Completed,PayPal,South,Merchant_34
+248,116,Jessica Lee,08-11-24,605.77,Income,Completed,Cash,East,Merchant_41
+249,116,Ethan Black,02-10-24,609,Income,Completed,Credit Card,North,Merchant_23
+250,117,George King,05-02-24,146.05,Income,Completed,Debit Card,South,Merchant_40
+251,103,Jessica Lee,17-04-24,611.76,Expense,Pending,Credit Card,North,Merchant_3
+252,101,Alice Johnson,14-09-24,643.32,Income,Pending,Cash,East,Merchant_28
+253,102,Jessica Lee,08-10-24,108.61,Income,Pending,Credit Card,West,Merchant_37
+254,104,Jessica Lee,20-01-24,545.64,Expense,Completed,PayPal,East,Merchant_1
+255,102,George King,01-03-24,733.66,Income,Completed,PayPal,South,Merchant_3
+256,116,Charlie Brown,07-08-24,970.89,Expense,Completed,Cash,East,Merchant_4
+257,104,Jessica Lee,16-11-24,646.64,Income,Completed,PayPal,East,Merchant_21
+258,113,Hannah Taylor,13-09-24,890.48,Expense,Pending,Credit Card,West,Merchant_19
+259,108,Hannah Taylor,28-03-24,584.21,Expense,Completed,Credit Card,South,Merchant_16
+260,118,Charlie Brown,08-09-24,829.25,Income,Pending,Credit Card,North,Merchant_5
+261,113,Bob Smith,01-03-24,50.15,Income,Completed,PayPal,West,Merchant_8
+262,110,Diana White,02-12-24,147.32,Income,Pending,Debit Card,East,Merchant_19
+263,120,Jessica Lee,23-12-24,171.9,Income,Pending,Credit Card,West,Merchant_42
+264,104,George King,30-05-24,642.74,Income,Pending,PayPal,East,Merchant_11
+265,116,Diana White,10-07-24,301.58,Income,Completed,Debit Card,West,Merchant_19
+266,117,Jessica Lee,23-01-24,571.63,Income,Pending,Bank Transfer,West,Merchant_27
+267,107,Charlie Brown,02-10-24,585.99,Income,Completed,PayPal,West,Merchant_36
+268,114,George King,11-07-24,827.79,Expense,Pending,Bank Transfer,East,Merchant_41
+269,107,Hannah Taylor,02-01-24,54.38,Income,Completed,Credit Card,West,Merchant_40
+270,109,Ethan Black,30-12-24,451.85,Income,Completed,Credit Card,East,Merchant_46
+271,111,Ethan Black,29-08-24,92.73,Income,Pending,Cash,North,Merchant_15
+272,111,Charlie Brown,30-11-24,731.02,Expense,Completed,Cash,North,Merchant_32
+273,102,Ian Martin,19-03-24,782,Income,Pending,PayPal,North,Merchant_24
+274,104,Alice Johnson,11-07-24,165.53,Income,Completed,Cash,West,Merchant_37
+275,113,Fiona Green,11-07-24,435.45,Expense,Completed,PayPal,West,Merchant_34
+276,110,Fiona Green,29-08-24,768.92,Expense,Completed,Credit Card,South,Merchant_42
+277,118,Ethan Black,01-08-24,506.78,Income,Pending,Cash,North,Merchant_26
+278,103,George King,05-11-24,928.46,Expense,Completed,Bank Transfer,West,Merchant_39
+279,103,Charlie Brown,13-09-24,369.23,Expense,Pending,Credit Card,East,Merchant_46
+280,117,Ian Martin,10-10-24,435.89,Expense,Completed,PayPal,East,Merchant_37
+281,106,Jessica Lee,16-09-24,399.03,Expense,Completed,Bank Transfer,West,Merchant_50
+282,106,Jessica Lee,22-11-24,911.99,Expense,Completed,Bank Transfer,East,Merchant_7
+283,106,Alice Johnson,08-06-24,977.74,Expense,Pending,Credit Card,West,Merchant_33
+284,106,Ian Martin,27-06-24,769.53,Expense,Completed,Cash,East,Merchant_48
+285,118,Ian Martin,04-09-24,510.5,Expense,Pending,Debit Card,South,Merchant_43
+286,111,Fiona Green,04-08-24,83.18,Expense,Completed,Debit Card,South,Merchant_48
+287,120,Diana White,26-12-24,684.8,Expense,Completed,Debit Card,West,Merchant_8
+288,104,George King,12-12-24,723.61,Income,Completed,PayPal,South,Merchant_44
+289,110,Charlie Brown,21-08-24,902.89,Income,Pending,Cash,South,Merchant_26
+290,109,Charlie Brown,08-02-24,379.35,Income,Pending,Debit Card,North,Merchant_23
+291,104,Fiona Green,11-03-24,957.27,Income,Pending,Bank Transfer,East,Merchant_39
+292,110,Jessica Lee,03-03-24,582.9,Income,Pending,Debit Card,East,Merchant_29
+293,113,Diana White,07-07-24,721.27,Income,Completed,PayPal,East,Merchant_45
+294,119,Charlie Brown,06-05-24,211.46,Income,Completed,Cash,South,Merchant_7
+295,118,Diana White,17-02-24,675.66,Income,Pending,PayPal,East,Merchant_36
+296,101,Ian Martin,12-11-24,222.44,Income,Pending,Debit Card,East,Merchant_43
+297,102,Jessica Lee,25-08-24,883.41,Income,Completed,Credit Card,East,Merchant_1
+298,106,Alice Johnson,15-02-24,304.93,Expense,Pending,PayPal,South,Merchant_45
+299,111,Hannah Taylor,12-06-24,345.67,Expense,Completed,Bank Transfer,South,Merchant_10
+300,109,Diana White,09-11-24,365.97,Income,Pending,Debit Card,West,Merchant_7
+301,104,Fiona Green,01-12-24,90.3,Expense,Completed,Credit Card,West,Merchant_13
+302,112,Jessica Lee,24-03-24,927.59,Expense,Pending,Bank Transfer,South,Merchant_30
+303,105,Alice Johnson,21-04-24,671.38,Income,Pending,Credit Card,West,Merchant_44
+304,105,Alice Johnson,24-04-24,266.44,Expense,Completed,Bank Transfer,South,Merchant_3
+305,110,Jessica Lee,24-04-24,509.05,Expense,Completed,Cash,West,Merchant_32
+306,105,Hannah Taylor,07-04-24,673.1,Expense,Completed,Cash,South,Merchant_18
+307,108,Fiona Green,01-11-24,735.04,Expense,Pending,Bank Transfer,North,Merchant_38
+308,120,Diana White,25-05-24,275.59,Expense,Pending,Credit Card,East,Merchant_13
+309,106,George King,11-02-24,218.81,Income,Completed,Credit Card,South,Merchant_19
+310,101,Hannah Taylor,15-07-24,276.85,Expense,Pending,Credit Card,North,Merchant_44
+311,103,Jessica Lee,07-10-24,315.22,Expense,Pending,Debit Card,West,Merchant_16
+312,120,Alice Johnson,23-10-24,457.77,Income,Completed,PayPal,South,Merchant_45
+313,117,Ethan Black,08-06-24,591.38,Income,Completed,PayPal,West,Merchant_48
+314,116,Ian Martin,26-03-24,428.04,Expense,Completed,Debit Card,North,Merchant_12
+315,115,Alice Johnson,02-06-24,299.95,Income,Pending,Cash,North,Merchant_42
+316,115,Charlie Brown,07-01-24,810.9,Income,Pending,Bank Transfer,North,Merchant_48
+317,101,George King,28-05-24,588.94,Income,Completed,Credit Card,East,Merchant_39
+318,117,Diana White,15-10-24,438.98,Expense,Completed,PayPal,West,Merchant_39
+319,102,Ethan Black,14-06-24,255.95,Income,Completed,Debit Card,West,Merchant_35
+320,110,Bob Smith,01-05-24,967.23,Expense,Completed,PayPal,West,Merchant_38
+321,107,Fiona Green,14-11-24,366.92,Expense,Completed,Bank Transfer,East,Merchant_28
+322,103,Bob Smith,28-07-24,615.39,Expense,Pending,Debit Card,East,Merchant_1
+323,120,Hannah Taylor,17-11-24,281.29,Income,Pending,Bank Transfer,West,Merchant_49
+324,112,Hannah Taylor,23-07-24,402.99,Income,Completed,Debit Card,North,Merchant_6
+325,108,Jessica Lee,24-07-24,453.4,Expense,Completed,Bank Transfer,West,Merchant_18
+326,118,George King,22-05-24,500.56,Income,Pending,PayPal,East,Merchant_28
+327,120,Hannah Taylor,22-11-24,66.3,Income,Completed,PayPal,North,Merchant_6
+328,106,Hannah Taylor,11-07-24,841.38,Expense,Pending,Debit Card,East,Merchant_37
+329,112,Hannah Taylor,07-10-24,419.49,Income,Completed,Cash,West,Merchant_5
+330,119,Charlie Brown,03-12-24,251.47,Expense,Completed,Debit Card,East,Merchant_36
+331,102,Jessica Lee,01-02-24,881.41,Expense,Pending,Credit Card,North,Merchant_40
+332,113,Charlie Brown,01-05-24,987.68,Income,Completed,Credit Card,South,Merchant_27
+333,112,Ethan Black,09-01-24,71.68,Income,Completed,PayPal,South,Merchant_21
+334,117,Ethan Black,27-01-24,482.06,Expense,Completed,Bank Transfer,West,Merchant_38
+335,102,Alice Johnson,16-03-24,487.84,Expense,Completed,Cash,South,Merchant_30
+336,104,Bob Smith,07-01-24,355.03,Income,Completed,Debit Card,West,Merchant_5
+337,103,Fiona Green,01-08-24,918.11,Expense,Completed,Credit Card,West,Merchant_12
+338,120,Ian Martin,07-01-24,75.1,Income,Completed,Debit Card,South,Merchant_1
+339,112,Hannah Taylor,11-03-24,948.47,Income,Pending,Cash,North,Merchant_7
+340,110,George King,23-04-24,609.29,Income,Completed,PayPal,South,Merchant_28
+341,120,Ethan Black,30-12-24,214.23,Income,Completed,Credit Card,West,Merchant_7
+342,103,Alice Johnson,02-08-24,942.54,Expense,Pending,Debit Card,West,Merchant_41
+343,104,Bob Smith,13-09-24,854.18,Expense,Pending,PayPal,West,Merchant_16
+344,108,Charlie Brown,12-10-24,253.74,Expense,Pending,Bank Transfer,South,Merchant_20
+345,119,Hannah Taylor,23-10-24,686.34,Expense,Pending,Bank Transfer,West,Merchant_4
+346,114,Ethan Black,03-03-24,439.55,Expense,Pending,PayPal,East,Merchant_22
+347,120,Hannah Taylor,20-04-24,676.39,Expense,Pending,Credit Card,West,Merchant_40
+348,110,Ethan Black,14-01-24,998,Expense,Completed,Bank Transfer,West,Merchant_38
+349,114,Fiona Green,07-07-24,133.35,Expense,Completed,Bank Transfer,North,Merchant_32
+350,102,Bob Smith,19-07-24,525.11,Expense,Completed,Credit Card,South,Merchant_15
+351,105,Hannah Taylor,25-08-24,706.68,Expense,Completed,Bank Transfer,South,Merchant_47
+352,120,Bob Smith,01-05-24,594.23,Income,Pending,Credit Card,South,Merchant_9
+353,118,Diana White,18-11-24,994.78,Expense,Completed,Bank Transfer,North,Merchant_47
+354,119,Diana White,24-07-24,731.41,Income,Pending,Credit Card,North,Merchant_3
+355,106,Charlie Brown,06-09-24,239.94,Income,Pending,Bank Transfer,East,Merchant_37
+356,116,Ian Martin,29-05-24,534.81,Expense,Pending,PayPal,South,Merchant_12
+357,104,Hannah Taylor,06-03-24,145.83,Expense,Completed,Credit Card,East,Merchant_22
+358,111,Diana White,10-02-24,825.24,Expense,Completed,Bank Transfer,South,Merchant_34
+359,117,Diana White,30-03-24,750.32,Expense,Completed,Debit Card,East,Merchant_23
+360,115,Diana White,04-06-24,159.61,Income,Completed,PayPal,North,Merchant_35
+361,114,Jessica Lee,22-01-24,957.34,Income,Pending,Bank Transfer,North,Merchant_40
+362,102,Hannah Taylor,28-01-24,661.67,Income,Completed,Debit Card,South,Merchant_45
+363,109,Ian Martin,27-03-24,449.15,Income,Completed,Credit Card,East,Merchant_48
+364,118,Jessica Lee,29-06-24,925.91,Income,Pending,Bank Transfer,North,Merchant_13
+365,115,Fiona Green,30-09-24,364.77,Expense,Completed,Debit Card,East,Merchant_42
+366,115,Ethan Black,29-06-24,611.73,Income,Completed,PayPal,East,Merchant_16
+367,101,Jessica Lee,28-04-24,427.69,Income,Pending,PayPal,North,Merchant_45
+368,120,Ethan Black,11-10-24,684.33,Income,Completed,Debit Card,North,Merchant_47
+369,109,Ian Martin,10-05-24,297.49,Income,Completed,Cash,West,Merchant_18
+370,113,Hannah Taylor,12-05-24,323.73,Expense,Pending,Debit Card,East,Merchant_32
+371,108,Ethan Black,21-06-24,57.93,Expense,Completed,Cash,East,Merchant_10
+372,107,Fiona Green,13-06-24,952.32,Income,Completed,PayPal,East,Merchant_7
+373,119,Ian Martin,27-11-24,404.44,Income,Completed,Bank Transfer,North,Merchant_10
+374,103,Fiona Green,30-01-24,595.75,Expense,Pending,Cash,South,Merchant_16
+375,109,Bob Smith,25-07-24,151.32,Income,Completed,PayPal,East,Merchant_15
+376,119,Ian Martin,10-12-24,673.26,Expense,Pending,Debit Card,East,Merchant_23
+377,103,George King,16-05-24,504.69,Expense,Completed,Credit Card,West,Merchant_43
+378,106,Charlie Brown,14-01-24,898.73,Expense,Completed,Debit Card,North,Merchant_14
+379,118,Jessica Lee,10-05-24,367.09,Income,Pending,Credit Card,East,Merchant_13
+380,111,Fiona Green,03-06-24,739.48,Income,Pending,Debit Card,North,Merchant_36
+381,109,Diana White,30-07-24,401.77,Expense,Completed,Cash,South,Merchant_37
+382,103,Diana White,27-07-24,206.83,Income,Pending,Credit Card,South,Merchant_42
+383,109,Ethan Black,08-10-24,73.3,Income,Pending,PayPal,West,Merchant_8
+384,113,Ethan Black,12-07-24,596.03,Expense,Pending,PayPal,East,Merchant_34
+385,120,George King,20-02-24,849.68,Expense,Pending,Cash,East,Merchant_36
+386,102,Fiona Green,07-06-24,51.99,Expense,Pending,Debit Card,East,Merchant_22
+387,115,Hannah Taylor,16-01-24,483.08,Income,Completed,Credit Card,North,Merchant_37
+388,105,Hannah Taylor,16-11-24,697.22,Expense,Pending,Credit Card,North,Merchant_12
+389,111,Diana White,02-01-24,881.56,Expense,Pending,Debit Card,North,Merchant_15
+390,105,Jessica Lee,19-01-24,241.48,Income,Pending,Credit Card,South,Merchant_21
+391,115,Alice Johnson,30-09-24,779.87,Income,Pending,PayPal,East,Merchant_47
+392,112,Jessica Lee,30-12-24,604.54,Income,Pending,Credit Card,East,Merchant_12
+393,108,Alice Johnson,05-03-24,466.51,Income,Completed,Credit Card,East,Merchant_4
+394,102,Charlie Brown,17-10-24,89.88,Expense,Completed,Bank Transfer,North,Merchant_8
+395,115,Charlie Brown,20-02-24,550.85,Income,Pending,Credit Card,East,Merchant_33
+396,115,Hannah Taylor,19-10-24,73.98,Expense,Pending,Credit Card,South,Merchant_15
+397,104,Charlie Brown,19-12-24,161.92,Expense,Completed,Bank Transfer,West,Merchant_30
+398,117,Jessica Lee,07-04-24,416.3,Income,Completed,Debit Card,South,Merchant_35
+399,107,Bob Smith,30-05-24,736.21,Expense,Completed,Credit Card,West,Merchant_35
+400,112,Charlie Brown,05-06-24,757.05,Expense,Pending,Bank Transfer,North,Merchant_34
+401,103,Charlie Brown,25-08-24,911.24,Income,Pending,Debit Card,East,Merchant_42
+402,114,Fiona Green,21-01-24,544.47,Income,Completed,Cash,South,Merchant_18
+403,104,Hannah Taylor,30-05-24,314.51,Expense,Completed,Credit Card,North,Merchant_3
+404,118,Ian Martin,29-06-24,576.28,Expense,Completed,Bank Transfer,South,Merchant_47
+405,110,Ian Martin,26-08-24,627.49,Expense,Pending,Credit Card,West,Merchant_4
+406,116,Bob Smith,18-05-24,456.45,Income,Pending,Cash,East,Merchant_5
+407,106,Ethan Black,18-07-24,338.08,Income,Pending,PayPal,East,Merchant_50
+408,101,George King,30-05-24,948.45,Expense,Completed,Cash,West,Merchant_31
+409,113,Ian Martin,06-05-24,653.87,Expense,Completed,Debit Card,South,Merchant_26
+410,118,Hannah Taylor,17-12-24,738.56,Expense,Pending,Bank Transfer,East,Merchant_44
+411,101,Hannah Taylor,20-12-24,342.86,Expense,Completed,Bank Transfer,West,Merchant_39
+412,111,Ian Martin,20-11-24,527,Income,Completed,Debit Card,North,Merchant_4
+413,115,Charlie Brown,09-10-24,394.29,Expense,Completed,Debit Card,West,Merchant_18
+414,107,Fiona Green,18-03-24,871.97,Income,Pending,Debit Card,North,Merchant_41
+415,102,Jessica Lee,10-08-24,254.7,Income,Completed,PayPal,South,Merchant_5
+416,106,Ian Martin,20-02-24,53.97,Expense,Completed,Cash,North,Merchant_37
+417,115,Bob Smith,08-05-24,138.15,Expense,Pending,Credit Card,South,Merchant_35
+418,109,Jessica Lee,26-05-24,153.38,Income,Completed,Credit Card,West,Merchant_15
+419,112,Alice Johnson,12-08-24,349.17,Expense,Pending,PayPal,North,Merchant_35
+420,114,Fiona Green,27-03-24,210.11,Income,Pending,Debit Card,West,Merchant_13
+421,109,George King,30-04-24,95.97,Income,Completed,Credit Card,East,Merchant_17
+422,119,Charlie Brown,24-03-24,418.65,Income,Completed,Credit Card,North,Merchant_42
+423,114,Alice Johnson,10-06-24,762.06,Income,Pending,Bank Transfer,North,Merchant_23
+424,105,Charlie Brown,27-03-24,292.96,Income,Pending,Bank Transfer,South,Merchant_3
+425,109,Alice Johnson,30-05-24,983.23,Income,Completed,Bank Transfer,West,Merchant_8
+426,103,Hannah Taylor,27-10-24,652.45,Income,Pending,PayPal,East,Merchant_27
+427,115,Bob Smith,01-07-24,764.72,Expense,Pending,Bank Transfer,East,Merchant_2
+428,103,Fiona Green,18-10-24,720.4,Expense,Completed,Credit Card,West,Merchant_43
+429,117,Ian Martin,10-01-24,532.05,Income,Completed,Cash,East,Merchant_42
+430,115,Jessica Lee,02-02-24,939.61,Expense,Pending,Credit Card,West,Merchant_32
+431,120,Diana White,03-06-24,772.08,Income,Completed,Bank Transfer,South,Merchant_34
+432,117,Fiona Green,16-09-24,328.51,Expense,Completed,Cash,West,Merchant_25
+433,114,George King,20-07-24,158.3,Income,Completed,Debit Card,West,Merchant_17
+434,113,George King,12-01-24,891.61,Expense,Pending,Bank Transfer,West,Merchant_46
+435,113,Alice Johnson,03-04-24,995.38,Income,Completed,Cash,East,Merchant_18
+436,115,Ethan Black,17-02-24,149.53,Income,Pending,Cash,East,Merchant_17
+437,105,George King,23-12-24,676.95,Income,Pending,Debit Card,South,Merchant_5
+438,120,George King,14-06-24,957.22,Expense,Pending,Cash,North,Merchant_6
+439,112,Ethan Black,10-08-24,917.72,Income,Pending,Debit Card,South,Merchant_12
+440,115,Fiona Green,22-07-24,360.59,Expense,Completed,Bank Transfer,North,Merchant_8
+441,118,Jessica Lee,04-11-24,352.95,Income,Pending,Debit Card,North,Merchant_44
+442,108,George King,26-08-24,969.74,Income,Pending,Cash,South,Merchant_27
+443,113,Hannah Taylor,26-06-24,468.88,Expense,Completed,Cash,South,Merchant_20
+444,116,Alice Johnson,23-11-24,66.62,Income,Completed,PayPal,North,Merchant_24
+445,102,George King,17-04-24,380.3,Expense,Pending,Cash,East,Merchant_13
+446,114,George King,05-08-24,164.57,Income,Pending,Credit Card,South,Merchant_33
+447,105,George King,25-03-24,863.39,Expense,Pending,Cash,South,Merchant_40
+448,118,Hannah Taylor,13-11-24,988.45,Expense,Pending,PayPal,South,Merchant_32
+449,104,Ethan Black,09-09-24,471.05,Income,Pending,Debit Card,South,Merchant_44
+450,116,Fiona Green,01-06-24,907.91,Income,Pending,Credit Card,North,Merchant_4
+451,105,Alice Johnson,02-08-24,702.91,Income,Pending,Bank Transfer,South,Merchant_46
+452,102,George King,04-02-24,463.26,Income,Pending,Credit Card,South,Merchant_6
+453,118,George King,29-10-24,191.15,Income,Completed,Debit Card,East,Merchant_21
+454,112,Bob Smith,10-10-24,217.68,Expense,Completed,PayPal,South,Merchant_38
+455,115,Jessica Lee,19-06-24,166.72,Income,Pending,PayPal,West,Merchant_29
+456,106,Alice Johnson,31-01-24,455.68,Income,Pending,Debit Card,West,Merchant_9
+457,111,Charlie Brown,01-08-24,782.56,Income,Pending,Bank Transfer,West,Merchant_31
+458,119,Ian Martin,23-12-24,319.92,Income,Completed,Bank Transfer,West,Merchant_38
+459,110,Alice Johnson,15-10-24,703.3,Expense,Completed,Credit Card,East,Merchant_5
+460,113,Hannah Taylor,09-05-24,834.16,Expense,Completed,Credit Card,West,Merchant_38
+461,104,Bob Smith,16-12-24,275.62,Expense,Pending,Debit Card,South,Merchant_36
+462,106,Bob Smith,16-02-24,217.31,Income,Pending,Bank Transfer,West,Merchant_49
+463,116,Ethan Black,09-11-24,169.86,Expense,Pending,PayPal,North,Merchant_4
+464,116,Charlie Brown,18-02-24,208.23,Expense,Pending,Cash,East,Merchant_6
+465,119,Fiona Green,23-02-24,873.39,Expense,Pending,Cash,East,Merchant_49
+466,119,Alice Johnson,03-09-24,71.71,Income,Pending,Credit Card,East,Merchant_18
+467,109,George King,11-11-24,484,Income,Pending,Credit Card,East,Merchant_23
+468,118,Alice Johnson,26-08-24,426.41,Income,Pending,Credit Card,West,Merchant_28
+469,118,Alice Johnson,19-03-24,271.31,Income,Completed,Cash,South,Merchant_17
+470,102,Charlie Brown,07-10-24,106.01,Income,Pending,PayPal,South,Merchant_50
+471,102,Ian Martin,22-07-24,550.7,Income,Completed,Bank Transfer,South,Merchant_48
+472,116,Jessica Lee,04-06-24,171.6,Expense,Completed,Debit Card,West,Merchant_35
+473,111,Ian Martin,23-02-24,82.68,Expense,Pending,Bank Transfer,North,Merchant_10
+474,104,Alice Johnson,04-01-24,254.19,Expense,Pending,Cash,South,Merchant_4
+475,117,Ian Martin,03-09-24,613.92,Income,Pending,Cash,West,Merchant_41
+476,106,Diana White,24-07-24,265.26,Expense,Completed,Debit Card,North,Merchant_19
+477,113,Diana White,17-01-24,595.75,Income,Completed,Bank Transfer,East,Merchant_34
+478,112,Ian Martin,21-10-24,985.61,Income,Completed,Bank Transfer,East,Merchant_11
+479,115,Fiona Green,01-11-24,801.43,Income,Completed,Debit Card,South,Merchant_30
+480,119,Jessica Lee,06-10-24,620.85,Expense,Completed,PayPal,West,Merchant_31
+481,118,Hannah Taylor,05-12-24,623.37,Expense,Completed,Cash,North,Merchant_42
+482,106,George King,28-01-24,189.84,Expense,Completed,Bank Transfer,North,Merchant_44
+483,111,Charlie Brown,07-09-24,689.94,Expense,Completed,PayPal,South,Merchant_14
+484,109,George King,08-03-24,69.3,Income,Completed,Cash,North,Merchant_23
+485,105,Alice Johnson,14-09-24,189.88,Expense,Pending,PayPal,South,Merchant_29
+486,116,Diana White,08-11-24,668.47,Expense,Completed,Debit Card,East,Merchant_42
+487,108,Alice Johnson,28-03-24,488,Income,Completed,PayPal,North,Merchant_31
+488,112,Hannah Taylor,21-08-24,416.41,Income,Completed,Bank Transfer,North,Merchant_15
+489,107,Alice Johnson,03-07-24,507.03,Income,Pending,PayPal,North,Merchant_24
+490,117,George King,28-11-24,922.49,Income,Completed,Bank Transfer,East,Merchant_27
+491,105,Hannah Taylor,10-09-24,491.96,Income,Pending,Debit Card,West,Merchant_14
+492,108,Ian Martin,15-11-24,377.19,Expense,Pending,Cash,East,Merchant_49
+493,105,Hannah Taylor,19-04-24,603.88,Income,Completed,Credit Card,West,Merchant_9
+494,105,Diana White,10-11-24,640.39,Income,Completed,Debit Card,South,Merchant_28
+495,110,Alice Johnson,07-11-24,334.51,Expense,Pending,PayPal,West,Merchant_15
+496,113,Charlie Brown,24-09-24,994.76,Expense,Pending,Bank Transfer,South,Merchant_9
+497,103,Hannah Taylor,07-11-24,519.48,Expense,Completed,Debit Card,West,Merchant_32
+498,107,Charlie Brown,15-01-24,607.27,Income,Pending,Credit Card,South,Merchant_35
+499,101,Jessica Lee,04-09-24,528.31,Income,Pending,Cash,East,Merchant_11
+500,104,Ian Martin,17-02-24,992.67,Expense,Completed,Credit Card,East,Merchant_18
